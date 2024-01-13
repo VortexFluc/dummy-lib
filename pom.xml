@@ -3,7 +3,7 @@
 
     <groupId>lib.dummy</groupId>
     <artifactId>dummy-lib</artifactId>
-    <version>2.11-SNAPSHOT</version>
+    <version>2.11</version>
     <packaging>jar</packaging>
 
     <name>dummy-lib</name>
@@ -38,7 +38,7 @@
         <connection>scm:git:https://github.com/VortexFluc/dummy-lib.git</connection>
         <url>https://github.com/VortexFluc/dummy-lib</url>
         <developerConnection>scm:git:https://github.com/VortexFluc/dummy-lib.git</developerConnection>
-        <tag>v2.10</tag>
+        <tag>v2.11</tag>
     </scm>
 
     <build>
